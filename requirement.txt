@@ -1,0 +1,16 @@
+torch
+torchvision
+torchaudio
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+nltk
+tqdm
+transformers
+datasets
+huggingface_hub
+sentencepiece
+gradio
+sacrebleu
